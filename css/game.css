@@ -213,8 +213,8 @@ a {
 
   .card {
   
-    width: 75px;
-    height: 75px;
+    width: 70px;
+    height: 70px;
     
   }
 
@@ -223,6 +223,7 @@ a {
     grid-template-columns: repeat(auto-fit, minmax(80px, 1fr));
     gap: 10px;
     justify-items: center;
+    margin-right: 15px;
     
    
   }
